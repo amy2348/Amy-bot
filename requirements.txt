@@ -1,4 +1,5 @@
-python-telegram-bot==20.3
-requests
+python-telegram-bot
 beautifulsoup4
+requests
 pypandoc
+
